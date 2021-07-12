@@ -1,0 +1,20 @@
+<template>
+    <button type="button" class="top_return_button">トップに戻る</button>
+</template>
+
+<style scoped>
+.top_return_button {
+  display: block;
+  width: 170px;
+  color: #fff;
+  background-color: #ff0000;
+  font-family: 筑紫A丸ゴシック;
+  font-weight: bold;
+  font-size: 21px;
+  border: none;
+  border-radius: 24px;
+  padding: 5px;
+  margin: 30px auto;
+  cursor: pointer;
+}
+</style>
